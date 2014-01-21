@@ -1,28 +1,8 @@
-== README
+Hi, I'm Kevin Mu, and my first rails project is hosted at:
+http://protected-bayou-4931.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This project was fairly straightforward and simple, and was primarily a matter
+of following the instructions given. I ran into a bit of trouble uploading to
+Heroku because I forgot to generate a public key, but that was quickly resolved.
+Sorry for submitting late, I forgot that it was due already when I went to sleep
+last night (thought it was still Sunday)
